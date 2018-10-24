@@ -1,4 +1,5 @@
-![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/MetroBikeShare.png)
+![Image]
+(/Images/MetroBikeShare.png)
 
 ### Los Angeles Bike Share Data
 
