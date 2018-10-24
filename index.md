@@ -29,7 +29,6 @@ The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 
 ## Most Popular Stations
 
-![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Popular.gif)
 
 Station 3069 was the most popular start station with a total of 5138 visits!
 
