@@ -1,5 +1,3 @@
-![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/MetroBikeShare.png)
-
 ## Passholder Type Distribution
 
 <p align="center">
