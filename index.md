@@ -30,27 +30,31 @@ The average duration of renting a bike for a single trip was 25 minutes. This ma
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Popular.gif">
+  <p align="center">
+    <br>
+      Station 3069 was the most popular start station with a total of 5138 visits!
+    </br>
+    <br>
+      Station 3005 was the most popular stop station with a total of 6262 visits!
+    </br>
+  </p>
 </p>
-
-Station 3069 was the most popular start station with a total of 5138 visits!
-
-Station 3005 was the most popular stop station with a total of 6262 visits!
 
 ## Average Distance Traveled
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Bike.png">
+  
+  The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 </p>
-
-The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 
 ## Regular Riders
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Pass.gif">
+  
+  In total, there were 91203 riders that either had monthly, flex, or staff annual passes, signifying regular bike share riders.
 </p>
-
-In total, there were 91203 riders that either had monthly, flex, or staff annual passes, signifying regular bike share riders.
 
 # Seasonal Effect on Passholder Types
 
