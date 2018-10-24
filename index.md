@@ -6,7 +6,7 @@
 
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/PassholderTypes.jpeg)
 
-From the data set, there was a total of 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes. Looking at the pie chart, it seems the majority of bike share riders prefer the monthly pass which costs $17/month and comes with free 30 minute or less bike rides with an additional $1.75 for every 30 minutes thereafter. This could be because of the distance from the starting bike share station to the end station for regular riders was less than 30 minutes resulting in free rides after the initial $17/month payment.
+From the data set, there was a total of 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes counted. Looking at the pie chart, it seems the majority of bike share riders prefer the monthly pass which costs $17/month and comes with free 30 minute or less bike rides with an additional $1.75 for every 30 minutes thereafter. This could be because the distance from the starting bike share station to the end station for regular riders took less than 30 minutes resulting in free rides after the initial $17/month payment.
 
 ## Trip Route Distribution
 
