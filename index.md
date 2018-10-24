@@ -1,9 +1,9 @@
-After doing some data analysis on Los Angeles' bike share date, I was able to find out the following information.
+### Los Angeles Bike Share Data
 
+![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/MetroBikeShare.png)
+In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
 
-In total, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
-
-![Image](https://github.com/ashvin26/BikeShares/blob/master/PassholderTypes.jpeg)
+![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/PassholderTypes.jpeg)
 
 Percentagewise, there were 61.4% monthly passes, 7.19% flex passes, 31.13% walk up passes, and 0.29% staff annual passes.
 
