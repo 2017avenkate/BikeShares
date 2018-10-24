@@ -40,4 +40,6 @@ The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 
 ## Regular Riders
 
+![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Pass.gif)
+
 In total, there were 91203 riders that either had monthly, flex, or staff annual passes, signifying regular bike share riders.
