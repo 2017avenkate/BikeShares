@@ -25,7 +25,7 @@ Percentagewise, there were  90.35% one way trips and 9.65% round trips.
 
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Time.jpg)
 
-The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
+The average duration of renting a bike for a single trip was 25 minutes.
 
 ## Most Popular Stations
 
