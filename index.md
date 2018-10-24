@@ -1,6 +1,7 @@
+![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/MetroBikeShare.png)
+
 ### Los Angeles Bike Share Data
 
-![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/MetroBikeShare.png)
 In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
 
 ![Image](https://github.com/ashvin26/BikeShares/blob/master/Images/PassholderTypes.jpeg)
