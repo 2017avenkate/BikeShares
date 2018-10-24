@@ -2,11 +2,15 @@
 
 ## Los Angeles Bike Share Data
 
+# Passholder Type Distribution
+
 In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
 
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/PassholderTypes.jpeg)
 
 Percentagewise, there were 61.4% monthly passes, 7.19% flex passes, 31.13% walk up passes, and 0.29% staff annual passes.
+
+# Trip Route Distribution
 
 In the data set, there were 119642 one way trips and 12785 round trips.
 
@@ -14,42 +18,25 @@ In the data set, there were 119642 one way trips and 12785 round trips.
 
 Percentagewise, there were  90.35% one way trips and 9.65% round trips.
 
+# Average Trip Time
 
+![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Time.jpg)
 
-## Welcome to GitHub Pages
+The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 
-You can use the [editor on GitHub](https://github.com/2017avenkate/BikeShares/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Most Popular Stations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Popular.gif)
 
-### Markdown
+Station 3069 was the most popular start station with a total of 5138 visits!
+Station 3005 was the most popular stop station with a total of 6262 visits!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Average Distance Traveled
 
-```markdown
-Syntax highlighted code block
+![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/Bike.png)
 
-# Header 1
-## Header 2
-### Header 3
+The average distance traveled for a single trip was 4.72 km, or 2.93 miles.
 
-- Bulleted
-- List
+# Regular Riders
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2017avenkate/BikeShares/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In total, there were 91203 riders that either had monthly, flex, or staff annual passes, signifying regular bike share riders.
