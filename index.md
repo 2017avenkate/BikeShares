@@ -4,17 +4,17 @@
 
 ## Passholder Type Distribution
 
-In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
-
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/PassholderTypes.jpeg)
+
+In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
 
 Percentagewise, there were 61.4% monthly passes, 7.19% flex passes, 31.13% walk up passes, and 0.29% staff annual passes.
 
 ## Trip Route Distribution
 
-In the data set, there were 119642 one way trips and 12785 round trips.
-
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/TripRouteCategories.jpeg)
+
+In the data set, there were 119642 one way trips and 12785 round trips.
 
 Percentagewise, there were  90.35% one way trips and 9.65% round trips.
 
