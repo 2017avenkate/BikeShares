@@ -1,3 +1,13 @@
+In the data set, there were 81304 monthly passes, 9517 flex passes, 41224 walk-up passes, and 382 staff annual passes.
+
+
+
+
+
+Percentagewise, there were 61.4% monthly passes, 7.19% flex passes, 31.13% walk up passes, and 0.29% staff annual passes.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/2017avenkate/BikeShares/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
