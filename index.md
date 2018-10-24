@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/MetroBikeShare.png)
 
-Los Angeles Bike Share Data
+# Los Angeles Bike Share Data
 
 
 ## Passholder Type Distribution
