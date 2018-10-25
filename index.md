@@ -60,6 +60,8 @@ From the graph, we can see the season does not seem to affect the passholder typ
 
 The calculated percentages for the passholder types for each season was the following:
 
+* * *
+
 Monthly passes in the summer: 63.39%
 
 Flex passes in the summer: 9.14%
