@@ -48,7 +48,7 @@ The average duration of renting a bike for a single trip was 25 minutes. This ma
   In total, there were 91203 riders that either had monthly, flex, or staff annual passes, signifying regular bike share riders.
 </p>
 
-# Seasonal Effect on Passholder Types
+## Seasonal Effect on Passholder Types
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashvin26/BikeShares/master/Images/SeasonComparison.jpeg">
