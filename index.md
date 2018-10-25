@@ -68,6 +68,7 @@ Walk-up passes in the summer: 27.47%
 
 Staff annual passes in the summer: 0%
 
+* * *
 
 Monthly passes in the fall: 58.7%
 
@@ -77,6 +78,7 @@ Walk-up passes in the fall: 34.45%
 
 Staff annual passes in the fall: 0.48%
 
+* * *
 
 Monthly passes in the spring: 60.77%
 
@@ -86,6 +88,7 @@ Walk-up passes in the spring: 31.87%
 
 Staff annual passes in the spring: 0%
 
+* * *
 
 Monthly passes in the winter: 64%
 
@@ -94,5 +97,7 @@ Flex passes in the winter: 6.22%
 Walk-up passes in the winter: 29.35%
 
 Staff annual passes in the winter: 0.43%
+
+* * *
 
 Looking at the percentages, the monthly passes was always around 60%, the flex passes always around 7%, the walk-up passes always around 30% and the staff annual passes always around 0.2%. The season itself did not effect the type of pass purchased by the bike share riders significantly.
